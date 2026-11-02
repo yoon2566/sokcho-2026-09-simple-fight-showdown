@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "addedOn": "2026-11-02",
+  "studentNumber": 9,
+  "sourceStudentNumber": 9,
+  "status": "assets_only_not_integrated",
+  "warning": "게임 조작, 외형 변형, 충돌 및 재시작은 실제 게임에 연결한 후 확인해야 합니다.",
+  "models": [
+    {
+      "file": "cyan_game.glb",
+      "bytes": 2168272,
+      "sha256": "aa7b33b23906e7458d6a90a2d569b9c71b25603a5c30d43bcc6809825b8aabe0",
+      "skins": 1,
+      "joints": 28,
+      "animations": [
+        "Idle",
+        "Run",
+        "BasicAttack",
+        "Skill_01",
+        "Skill_02",
+        "Guard",
+        "Dodge",
+        "Hit",
+        "Fall",
+        "GetUp",
+        "Awaken_Start",
+        "Awaken_Loop",
+        "Awaken_End"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    },
+    {
+      "file": "ember_game.glb",
+      "bytes": 2151416,
+      "sha256": "c795ad79af859b6e064ba6c867a91d5a40b58111159a8fa1abf0ad0d570f6836",
+      "skins": 1,
+      "joints": 28,
+      "animations": [
+        "Idle",
+        "Run",
+        "BasicAttack",
+        "Skill_01",
+        "Skill_02",
+        "Guard",
+        "Dodge",
+        "Hit",
+        "Fall",
+        "GetUp",
+        "Awaken_Start",
+        "Awaken_Loop",
+        "Awaken_End"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    },
+    {
+      "file": "duelist_game.glb",
+      "bytes": 2142016,
+      "sha256": "f750b61889fd24b4d9e6f8ee04a41368b1016f31447618e0784d2be0093a6fab",
+      "skins": 1,
+      "joints": 28,
+      "animations": [
+        "Idle",
+        "Run",
+        "BasicAttack",
+        "Skill_01",
+        "Skill_02",
+        "Guard",
+        "Dodge",
+        "Hit",
+        "Fall",
+        "GetUp",
+        "Awaken_Start",
+        "Awaken_Loop",
+        "Awaken_End"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    }
+  ]
+}
